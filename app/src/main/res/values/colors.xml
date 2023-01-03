@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="AgeInMinuteColor">#009688</color>
     <color name="bg">#009688</color>
+
+    <color name="lavender">#D4CF8DE0</color>
 </resources>
